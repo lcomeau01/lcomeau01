@@ -31,6 +31,6 @@ Currently, I’m studying abroad at **Oxford University**, where I’ve been tho
 ## 💡 Let's Connect!
 Please, Reach Out! I would love to chat to you :) 
 
-My Email: [Lily.Comeau@tufts.edu](lily.comeau@tufts.edu)
+My Email: Lily.Comeau@tufts.edu
 
 My LinkedIn: [Lily Comeau ](https://www.linkedin.com/in/lily-comeau/)
