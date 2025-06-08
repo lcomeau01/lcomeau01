@@ -14,7 +14,7 @@ Currently, I’m studying abroad at **Oxford University**, where I’ve been tho
 ### At Oxford:
 - **Core Courses**: Linear Algebra, Algorithms, Introduction to Proof Systems, and Models of Computation (Computational Theory)
 
-- **Data & AI**: Data Visualization, Databases, AI Planning
+- **Data & AI**: Data Visualization, Databases, AI Planning, Networks
 
 - **Digital Systems**: A course that covers Assembly Language, Embedded Systems, I/O Control, Interrupts and Operating Systems
 
