@@ -1,14 +1,14 @@
 # Hello There, I'm Lily Comeau (lcomeau01). 
 **🎓 Computer Science Student @ Tufts University** 
 
-**📍 Currently Studying Abroad @ Oxford University** 
+**📍 Visiting Student @ Oxford University (2024 – 2025)** 
 
 ## 📌 About Me :) 
 I started my Computer Science journey in the second semester of my freshman year, immediately declaring my major during my first CS course. I’ve been absolutely in love with the subject ever since. 
 
 I have a deep passion for low-level programming, especially **Assembly** and **C**, but I also have a lot of experience in **Web Design** and languages like **JavaScript**, **PHP**, and **Node.js**.
 
-Currently, I’m studying abroad at **Oxford University**, where I’ve been thoroughly enjoying the tutorial system -- working closely with world-renowned tutors and exploring the **theoretical** side of Computer Science in depth.
+In my Junior Year, I studied abroad at **Oxford University**, where I thoroughly enjoyed the tutorial system, working closely with world-renowned tutors, and exploring the **theoretical** side of Computer Science in depth.
 
 ## 📚 What I'm Studying: 
 ### At Oxford:
